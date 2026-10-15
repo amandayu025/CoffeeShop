@@ -10,8 +10,8 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_movable_parent",
-    "path":"objects/obj_movable_parent/obj_movable_parent.yy",
+    "name":"obj_movable",
+    "path":"objects/obj_movable/obj_movable.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
