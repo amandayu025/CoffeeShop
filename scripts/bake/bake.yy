@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"mix",
+  "%Name":"bake",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"mix",
+  "name":"bake",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

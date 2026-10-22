@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"foods_mix",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"foods_mix",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

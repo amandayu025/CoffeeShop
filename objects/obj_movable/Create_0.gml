@@ -6,3 +6,4 @@ global.matchalatte = 0;
 global.icedmatchalatte = 0;
 global.icedmatchalattestrawberry = 0;
 global.hotchocolate = 0;
+global.cookie = 0;
